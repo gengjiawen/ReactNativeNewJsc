@@ -1,6 +1,7 @@
 module.exports = function (api) {
   // api.cache(true)
-  // const platform = api.caller(caller => caller.platform);
+  const platform = api.caller(caller => caller.platform);
+  console.log(platform);
 
   if (platform === 'android') {
     return {

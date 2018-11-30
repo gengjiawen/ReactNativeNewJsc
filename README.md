@@ -2,6 +2,7 @@
 The jsc support full es6 feature and 64bit support.
 
 Thanks to @Kudo with the hard work https://github.com/react-community/jsc-android-buildscripts/pull/66.
+
 Also @kmagiera, @DanielZlotin and everyone working on https://github.com/react-community/jsc-android-buildscripts.
 
 ## Try it using 
