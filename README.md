@@ -1,4 +1,6 @@
 # React Native with new jsc 
+[![CircleCI](https://circleci.com/gh/gengjiawen/ReactNativeNewJsc.svg?style=svg)](https://circleci.com/gh/gengjiawen/ReactNativeNewJsc)
+
 The jsc support full es6 feature and 64bit support.
 
 Thanks to @Kudo with the hard work https://github.com/react-community/jsc-android-buildscripts/pull/66.
